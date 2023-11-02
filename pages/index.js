@@ -28,7 +28,7 @@ const Home = () => {
           >
             The intelligence chases
             <br /> me, but
-            <span className="text-accent"> I'm faster</span>{' '}
+            <span className="text-accent"> Im faster</span>{' '}
           </motion.h1>
           {/* subtitle */}
           <motion.p
