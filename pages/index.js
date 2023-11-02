@@ -28,7 +28,7 @@ const Home = () => {
           >
             The intelligence chases
             <br /> me, but
-            <span className="text-accent"> Im faster</span>{' '}
+            <span className="text-accent"> I&apos;m faster</span>{' '}
           </motion.h1>
           {/* subtitle */}
           <motion.p
@@ -38,7 +38,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            I am passionate about technology, innovation and big challenging
+            I&apos;m passionate about technology, innovation and big challenging
             tasks on my to do list.
           </motion.p>
           {/* btn */}
